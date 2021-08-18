@@ -1,0 +1,22 @@
+{
+  "name": "smarttoken",
+  "version": "1.0.0",
+  "description": "ERC20 Token",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsenack/SmartToken.git"
+  },
+  "author": "david senack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidsenack/SmartToken/issues"
+  },
+  "homepage": "https://github.com/davidsenack/SmartToken#readme"
+}
