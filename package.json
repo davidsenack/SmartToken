@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/davidsenack/SmartToken/issues"
   },
-  "homepage": "https://github.com/davidsenack/SmartToken#readme"
+  "homepage": "https://github.com/davidsenack/SmartToken#readme",
+  "dependencies": {
+    "openzeppelin-solidity": "^1.12.0"
+  }
 }
